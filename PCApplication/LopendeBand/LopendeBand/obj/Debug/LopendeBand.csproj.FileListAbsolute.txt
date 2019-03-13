@@ -1,0 +1,12 @@
+D:\Users\ivanz\Documents\Visual Studio 2015\Projects\LopendeBand\LopendeBand\obj\Debug\LopendeBand.csprojResolveAssemblyReference.cache
+D:\Users\ivanz\Documents\Visual Studio 2015\Projects\LopendeBand\LopendeBand\obj\Debug\LopendeBand.Form1.resources
+D:\Users\ivanz\Documents\Visual Studio 2015\Projects\LopendeBand\LopendeBand\obj\Debug\LopendeBand.csproj.GenerateResource.Cache
+D:\Users\ivanz\Documents\Visual Studio 2015\Projects\LopendeBand\LopendeBand\bin\Debug\HSHD2000.exe.config
+D:\Users\ivanz\Documents\Visual Studio 2015\Projects\LopendeBand\LopendeBand\bin\Debug\HSHD2000.exe
+D:\Users\ivanz\Documents\Visual Studio 2015\Projects\LopendeBand\LopendeBand\bin\Debug\HSHD2000.pdb
+D:\Users\ivanz\Documents\Visual Studio 2015\Projects\LopendeBand\LopendeBand\obj\Debug\HSHD2000.Properties.Resources.resources
+D:\Users\ivanz\Documents\Visual Studio 2015\Projects\LopendeBand\LopendeBand\obj\Debug\HSHD2000.exe
+D:\Users\ivanz\Documents\Visual Studio 2015\Projects\LopendeBand\LopendeBand\obj\Debug\HSHD2000.pdb
+C:\Users\ivanz\Google Drive\_SCHOOL\HSI1&2\FinalFiles\PCApplication\LopendeBand\LopendeBand\bin\Debug\HSHD2000.exe.config
+C:\Users\ivanz\Google Drive\_SCHOOL\HSI1&2\FinalFiles\PCApplication\LopendeBand\LopendeBand\obj\Debug\HSHD2000.exe
+C:\Users\ivanz\Google Drive\_SCHOOL\HSI1&2\FinalFiles\PCApplication\LopendeBand\LopendeBand\obj\Debug\HSHD2000.pdb
